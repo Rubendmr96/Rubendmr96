@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rubén de Miguel, gradudo en Ingeniería Informática.
+# ¡Hola! Soy Rubén de Miguel, graduado en Ingeniería Informática.
 Échale un ojo a mi proyecto [frontera-digimon](https://github.com/Rubendmr96/frontera-digimon)
 
 
