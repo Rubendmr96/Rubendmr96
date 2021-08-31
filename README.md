@@ -1,4 +1,6 @@
-# ¡Hola! Soy Rubén
+# ¡Hola! Soy Rubén de Miguel, gradudo en Ingeniería Informática.
+Échale un ojo a mi proyecto [frontera-digimon](https://github.com/Rubendmr96/frontera-digimon)
+
 
 <!--
 **Rubendmr96/Rubendmr96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
