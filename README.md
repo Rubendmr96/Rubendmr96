@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rubén de Miguel, graduado en Ingeniería Informática.
+# ¡Hola! Soy Rubén de Miguel, desarrollador Java, aunque no le hago ascos a otros lenguajes!
 
 
 <!--
