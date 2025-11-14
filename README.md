@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rubén de Miguel, desarrollador Java, aunque no le hago ascos a otros lenguajes!
+# ¡Hola! Soy Rubén de Miguel, desarrollador Java, ¡aunque no le hago ascos a otros lenguajes!
 
 
 <!--
